@@ -1,18 +1,18 @@
 ---
-title: Project Threads
+title: NYC Explorer
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/nycgraphic.png
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: NYC Explorer
+  subtitle: 
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+I developed a high-performance data visualization web application using WebGL, which enabled the rendering of large datasets from NYC OpenData onto a map. Throughout this project, I gained proficiency in several front-end frameworks, including Next.js, React, and Deck GL
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: December 2022
+-Tech Stack: Next.js, React, DeckGL, WebGL
 

@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Prompt Engineering Practice
+subtitle: Designed to help users improve their prompt engineering skills by offering practice opportunities and providing feedback on their queries. With a focus on software engineering using large language models, the educational tool offers hints, reveals correct answers, and incorporates a scoring system to enhance user engagement
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
+  title: PromptMaster
   subtitle: Graphic Design
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This interactive application is designed to help users improve their prompt engineering skills by offering practice opportunities and providing feedback on their queries. With a focus on software engineering using large language models, the educational tool offers hints, reveals correct answers, and incorporates a scoring system to enhance user engagement
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: April 2023
+- Tech Stack: Javascript, HTML, React
 

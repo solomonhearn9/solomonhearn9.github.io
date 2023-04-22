@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Secure Password Sharing Tool
+subtitle: Designed to make it easy and safe for individuals or teams to share passwords without compromising their security.
+
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Secure Password Sharing Tool
+  subtitle: 
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+My project is a secure password sharing tool designed to make it easy and safe for individuals or teams to share passwords without compromising their security. The tool was built using Glitch and Retool, two powerful platforms for building and deploying web applications
+
 
 {:.list-inline}
 - Date: January 2017
-- Client: Finish
-- Category: Identity
+- Tech Stack: Javascript, Glitch, Retool
 
